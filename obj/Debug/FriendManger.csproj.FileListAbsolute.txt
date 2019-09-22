@@ -1,0 +1,13 @@
+C:\Users\Visua\source\repos\FriendManger\FriendManger\bin\Debug\FriendManger.exe.config
+C:\Users\Visua\source\repos\FriendManger\FriendManger\bin\Debug\FriendManger.exe
+C:\Users\Visua\source\repos\FriendManger\FriendManger\bin\Debug\FriendManger.pdb
+C:\Users\Visua\source\repos\FriendManger\FriendManger\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Visua\source\repos\FriendManger\FriendManger\bin\Debug\theme.dll
+C:\Users\Visua\source\repos\FriendManger\FriendManger\obj\Debug\FriendManger.csprojAssemblyReference.cache
+C:\Users\Visua\source\repos\FriendManger\FriendManger\obj\Debug\FriendManger.Form1.resources
+C:\Users\Visua\source\repos\FriendManger\FriendManger\obj\Debug\FriendManger.Properties.Resources.resources
+C:\Users\Visua\source\repos\FriendManger\FriendManger\obj\Debug\FriendManger.csproj.GenerateResource.cache
+C:\Users\Visua\source\repos\FriendManger\FriendManger\obj\Debug\FriendManger.csproj.CoreCompileInputs.cache
+C:\Users\Visua\source\repos\FriendManger\FriendManger\obj\Debug\FriendManger.csproj.CopyComplete
+C:\Users\Visua\source\repos\FriendManger\FriendManger\obj\Debug\FriendManger.exe
+C:\Users\Visua\source\repos\FriendManger\FriendManger\obj\Debug\FriendManger.pdb
